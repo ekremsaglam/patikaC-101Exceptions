@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\bin\Debug\net5.0\exceptions.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\bin\Debug\net5.0\exceptions.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\bin\Debug\net5.0\exceptions.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\bin\Debug\net5.0\exceptions.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\bin\Debug\net5.0\exceptions.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\bin\Debug\net5.0\ref\exceptions.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\bin\Debug\net5.0\exceptions.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\obj\Debug\net5.0\exceptions.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\obj\Debug\net5.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\obj\Debug\net5.0\exceptions.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\obj\Debug\net5.0\exceptions.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\obj\Debug\net5.0\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\obj\Debug\net5.0\exceptions.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\obj\Debug\net5.0\ref\exceptions.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\obj\Debug\net5.0\exceptions.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\exceptions\obj\Debug\net5.0\exceptions.genruntimeconfig.cache
